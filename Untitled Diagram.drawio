@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T13:13:58.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pmrfVTyqE7tvGfGzvylo" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T13:15:20.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="w2sXB1jaXTDaFTmqvp6-" version="14.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="993" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="D7vdX5SSu7D7kPS8Jv1w-21" value="Trả lời câu hỏi" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#0000CC;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D7vdX5SSu7D7kPS8Jv1w-22" value="chụp ảnh" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#0000CC;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="D7vdX5SSu7D7kPS8Jv1w-22" value="Chụp ảnh" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#0000CC;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D7vdX5SSu7D7kPS8Jv1w-25" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;fontColor=#0000CC;fontStyle=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D7vdX5SSu7D7kPS8Jv1w-12" target="D7vdX5SSu7D7kPS8Jv1w-15">
